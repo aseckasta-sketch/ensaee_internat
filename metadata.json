@@ -1,6 +1,0 @@
-{
-  "name": "Plateforme Internat ENSAE",
-  "description": "Plateforme web complète pour la gestion et la présentation de l'internat de l'ENSAE Sénégal, comprenant un site vitrine, un espace élève et un back-office administrateur.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
