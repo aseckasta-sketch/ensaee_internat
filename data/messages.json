@@ -1,0 +1,35 @@
+[
+  {
+    "id": "m1",
+    "eleveId": "m.diouf",
+    "eleveNom": "Mamadou Diouf",
+    "sujet": "Problème de robinet fuyant",
+    "message": "Bonjour, le robinet de notre salle de bain (chambre 101) fuit constamment depuis hier soir. Cela fait du bruit et gaspille de l'eau. Pourriez-vous envoyer un plombier s'il vous plaît ?",
+    "date": "2026-06-25",
+    "statut": "repondu",
+    "reponse": "Bonjour Mamadou, c'est noté. Le plombier passera demain matin à partir de 9h dans votre chambre pour effectuer la réparation.",
+    "reponseDate": "2026-06-26"
+  },
+  {
+    "id": "m2",
+    "eleveId": "a.sy",
+    "eleveNom": "Aminata Sy",
+    "sujet": "Demande d'attestation de résidence",
+    "message": "Bonjour Madame Seck, j'aurais besoin d'une attestation de résidence à l'internat pour renouveler ma carte d'étudiant. Serait-il possible de me la préparer pour vendredi ?",
+    "date": "2026-06-27",
+    "statut": "en_cours",
+    "reponse": "",
+    "reponseDate": ""
+  },
+  {
+    "id": "m3",
+    "eleveId": "o.fall",
+    "eleveNom": "Ousmane Fall",
+    "sujet": "Dysfonctionnement de la lampe de chevet",
+    "message": "Bonjour, l'ampoule ou la prise de ma lampe de chevet dans la chambre 202 ne fonctionne plus du tout. J'ai essayé de changer l'ampoule mais cela ne marche toujours pas.",
+    "date": "2026-06-28",
+    "statut": "recu",
+    "reponse": "",
+    "reponseDate": ""
+  }
+]
